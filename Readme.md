@@ -34,7 +34,7 @@ This project is a simple TypeScript application that interacts with a Web3 walle
 
 Replace your-infura-api-key with your actual Infura API key.
 
-5.Run the project:
+5. Run the project:
 
     ```bash
     npm install
