@@ -37,7 +37,7 @@ Replace your-infura-api-key with your actual Infura API key.
 5. Run the project:
 
     ```bash
-    npm install
+    npm start
 
 
  **Project Structure**
