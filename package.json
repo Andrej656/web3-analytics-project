@@ -1,0 +1,25 @@
+{
+  "name": "web3-analytics-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }, 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/mongodb": "^4.0.7",
+    "@types/universal-analytics": "^0.4.8",
+    "@types/web3": "^1.2.2",
+    "mongodb": "^6.3.0",
+    "universal-analytics": "^0.5.3",
+    "web3": "^4.4.0"
+  }
+}
